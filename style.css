@@ -74,6 +74,9 @@ hr{
    height: 60vh;
    margn: auto;
 }
+.secondsection h1{
+   font-size: 2rem;
+}
 .secondsection  .horizontalline{
    background-color: #fff5e1;
    width: 80hw;
@@ -115,6 +118,17 @@ hr{
 }
 .project-image{
    width: 40vw;
+}
+
+footer{
+   background-color: #060d25;
+   height: 300px;
+   color: grey;
+   padding: 22px;
+}
+
+.footer{
+   padding: 23px 122px;
 }
 footer  .copyright{
    text-align: center;
