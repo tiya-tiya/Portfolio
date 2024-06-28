@@ -1,0 +1,50 @@
+.fle{
+  display: flex;
+}
+
+.flex-col{
+  flex-decoration: column;
+}
+
+.flex-row{
+  flex-direction: row;
+}
+
+.items-center{
+  align-items: center;
+}
+
+.justify-around{
+  justify-content: space-around;
+}
+
+.justify-between{
+  text-align: center;
+}
+
+.justify-evenly{
+  justify-content: space-evenly;
+}
+
+.text-center{
+  text-align: center;
+}
+
+.bg-red{
+  background-color: red;
+}
+
+.btn{
+  padding: 15px 40px;
+  background-color: #ff6969;
+  color: #fff5e1;
+  border: 2px #fff5e1 solid;
+  border-radius: 15px;
+}
+
+
+
+
+
+
+
