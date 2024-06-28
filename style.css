@@ -30,3 +30,107 @@ nav ul li a{
   text-decoration: none;
   color: #fff5e1;
 }
+nav ul li a:hover {
+   color: #ff6969;
+   font-size: 1.02rem ;
+}
+
+.firstsection{
+    margin:80px;
+    height:70vh;
+}
+
+.leftsection{
+   margin: 3rem;
+   height:70px;
+}
+
+.rightsection{
+
+}
+
+.webDev-png{
+   width: 30vw;
+}
+.pink{
+   color: #ff6969;
+}
+#element{
+   color: #ff6969;
+}
+
+hr{
+   border: 0;
+   height: 1px;
+   background-color: #c80036;
+   margin:32px  87px  ;
+}
+.secondsection{
+   max-width:80vw;
+   height: 60vh;
+   margn: auto;
+}
+.secondsection  .horizontalline{
+   background-color: #fff5e1;
+   width: 80hw;
+   height: 2px;
+   margin: 100px  0px;
+}
+
+.verticalLine{
+   background-color: #fff5e1;
+   width:2px;
+   height: 100px;
+}
+.skill-logo{
+   width: 76px;
+   position: relative;
+   top: -88px;
+   left: -37px;
+}
+.vertical-title{
+   position: relative;
+   top: 20px;
+   width: 140px;
+}
+.vertical-disc{
+   position: relative;
+   top: 21px;
+   width:150px;
+   font-size: 10px;
+}
+
+.third-section{
+   height: 60vh;
+   margin: 80px;
+   font-size:1.5rem;
+}
+.third-section-right{
+   text-align: center;
+   margin: 40px;
+}
+.project-image{
+   width: 40vw;
+}
+footer  .copyright{
+   text-align: center;
+}
+
+.third-section button{
+   margin: 20 px;
+}
+.third-sectionbutton a{
+   text-decoration: none;
+   color: #fff5e1;
+}
+
+.btn:hover{
+   background-color: #c80036;
+   font-size: 1.03rem;
+}
+
+.firstsection  .button button a{
+   text-decoration:none;
+   color: #fff5e1;
+}
+
